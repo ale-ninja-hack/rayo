@@ -5,7 +5,7 @@ Mini kit de herramientas en desarrollo :)
 
 git clone https://github.com/ale-ninja-hack/rayo
 
-cd rayos
+cd rayo
 
 bash rayo.sh
 
